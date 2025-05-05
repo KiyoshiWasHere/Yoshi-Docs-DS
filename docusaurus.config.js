@@ -13,6 +13,7 @@ const config = {
   title: 'Yoshi Docs DS',
   tagline: 'Comprehensive documentation powered by Docusaurus',
   favicon: 'img/favicon.ico',
+  trailingSlash: true,  // explicitly set to true
 
   // Set the production url of your site here
   url: 'https://KiyoshiWasHere.github.io',
