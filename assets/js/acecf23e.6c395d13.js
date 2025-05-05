@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoshi_docs_ds=self.webpackChunkyoshi_docs_ds||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/Yoshi-Docs-DS/blog","blogTitle":"Blog","authorsListPath":"/Yoshi-Docs-DS/blog/authors"}')}}]);

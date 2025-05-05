@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoshi_docs_ds=self.webpackChunkyoshi_docs_ds||[]).push([[1771],{2784:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/Yoshi-Docs-DS/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
